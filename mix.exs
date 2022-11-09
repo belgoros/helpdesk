@@ -22,7 +22,8 @@ defmodule Helpdesk.MixProject do
   # Run "mix help deps" to learn about dependencies.
   defp deps do
     [
-      {:ash, "~> 2.4"}
+      {:ash, "~> 2.4"},
+      {:elixir_sense, github: "elixir-lsp/elixir_sense", only: [:dev, :test]}
     ]
   end
 end
