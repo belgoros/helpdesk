@@ -1,6 +1,6 @@
 # Helpdesk
 
-**TODO: Add description**
+It's an example Elixir app using Ash framework by following the [Ash guide](https://www.ash-hq.org/docs/guides/ash/latest/tutorials/get-started).
 
 ## Installation
 
@@ -18,4 +18,3 @@ end
 Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
 and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
 be found at <https://hexdocs.pm/helpdesk>.
-
